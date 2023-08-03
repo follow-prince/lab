@@ -8,7 +8,7 @@ def multiply(x, y):
     return x * y
 
 def divide(x, y):
-    return x / y
+    return x / y 
 
 def display_menu():
     print("Welcome to the calculator!")

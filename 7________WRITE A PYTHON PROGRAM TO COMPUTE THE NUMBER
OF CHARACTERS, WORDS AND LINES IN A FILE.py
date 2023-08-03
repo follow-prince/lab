@@ -16,3 +16,4 @@ num_chars, num_words, num_lines = count_chars_words_lines(file_name)
 print(f"Number of characters: {num_chars}")
 print(f"Number of words: {num_words}")
 print(f"Number of lines: {num_lines}")
+ 

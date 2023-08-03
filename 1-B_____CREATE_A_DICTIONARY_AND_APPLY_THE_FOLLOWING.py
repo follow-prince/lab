@@ -8,3 +8,4 @@ print(my_dict.get("country", "N/A"))  # Use a default value for the key "country
 my_dict["age"] = 40
 print(my_dict)
 print(len(my_dict))
+ 

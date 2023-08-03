@@ -14,7 +14,7 @@ class Car(Vehicle):
         self.model = model
 
     def drive(self):
-        print(f"Driving the {self.color} {self.brand} {self.model}...")
+        print(f"Driving the {self.color} {self.brand} {self.model}...") 
 
 
 my_car = Car("red", "Toyota", "Camry")

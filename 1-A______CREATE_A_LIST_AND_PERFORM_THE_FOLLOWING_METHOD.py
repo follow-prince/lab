@@ -12,7 +12,7 @@ print(len(my_list))
 
 last_element = my_list[-1]
 print(last_element)
-
+ 
 print(my_list)
 
 my_list.clear()

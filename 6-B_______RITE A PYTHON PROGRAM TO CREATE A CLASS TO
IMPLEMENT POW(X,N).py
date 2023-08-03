@@ -16,3 +16,4 @@ print(f"Output: {p.pow(2, 3)}")  # Output: 8.0
 print(f"Output: {p.pow(2, -3)}")  # Output: 0.125
 print(f"Output: {p.pow(3, 4)}")  # Output: 81.0
 
+ 
