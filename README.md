@@ -64,42 +64,6 @@ This will start the development server and open a browser window with your new R
 
 6. You can now begin building your React application by editing the files in the `src` directory of your project.
 
-## GitHub README.md Template
-
-For your GitHub repository's README.md file, you can provide instructions for installing dependencies, running the app, and any other relevant information. Here's a basic template you can use as a starting point:
-
-```markdown
-# My React App
-
-This is a simple explanation of my React app.
-
-## Getting Started
-
-Follow these instructions to get the project up and running on your local machine.
-
-### Prerequisites
-
-- Node.js and npm must be installed. You can download them from [here](https://nodejs.org/).
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/my-react-app.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd my-react-app
-   ```
-
-3. Install the project dependencies:
-
-   ```bash
-   npm install
-   ```
 
 ### Usage
 
